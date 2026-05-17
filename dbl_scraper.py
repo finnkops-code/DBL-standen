@@ -14,20 +14,22 @@ def fetch_html(url):
     with urllib.request.urlopen(req, timeout=30) as resp:
         return resp.read().decode("utf-8")
 
-def clean(text):
-    text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text
+def strip_tags(text):
+    return re.sub(r'<[^>]+>', '', text).strip()
+
+def clean_number(text):
+    text = strip_tags(text).strip()
+    return text if text else '-'
 
 def parse_standings(html):
     result = {}
 
-    # Zoek alle h3-koppen (Noord / Zuid) en de tabel die erop volgt
+    # Splits op h3-koppen (Noord / Zuid)
     parts = re.split(r'<h3[^>]*>(.*?)</h3>', html, flags=re.DOTALL)
 
     i = 1
     while i < len(parts):
-        divisie_naam = clean(parts[i])
+        divisie_naam = strip_tags(parts[i]).strip()
         rest = parts[i + 1] if i + 1 < len(parts) else ''
 
         table_match = re.search(r'<table[^>]*>(.*?)</table>', rest, re.DOTALL)
@@ -40,31 +42,49 @@ def parse_standings(html):
 
         divisie_rijen = []
         for row in rows:
+            # Haal alle <td> cellen op inclusief inhoud
             tds_raw = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
-            tds = [clean(td) for td in tds_raw]
-            tds = [t for t in tds if t != '']
-
-            if len(tds) < 4:
+            if len(tds_raw) < 4:
                 continue
 
-            # Eerste cel = positie (getal)
-            positie = tds[0] if re.match(r'^\d+$', tds[0]) else '-'
+            # Kolom 0: positie (getal)
+            positie = clean_number(tds_raw[0])
+            if not re.match(r'^\d+$', positie):
+                continue  # skip header-rijen
 
-            # Tweede cel = teamnaam
-            team = tds[1] if len(tds) > 1 else ''
-            if not team:
-                continue
+            # Kolom 1: teamcel — bevat <a title="Teamnaam"> en <img src="...">
+            teamcel = tds_raw[1]
 
-            # Resterende cellen = W, L, PCT, GB
-            cijfers = tds[2:]
+            # Teamnaam uit title-attribuut van de <a> tag
+            naam_match = re.search(r'<a[^>]+title=["\']([^"\']+)["\']', teamcel)
+            if naam_match:
+                teamnaam = naam_match.group(1).strip()
+                # Verwijder " Logo" achteraan als dat erin zit
+                teamnaam = re.sub(r'\s*Logo\s*$', '', teamnaam, flags=re.IGNORECASE).strip()
+            else:
+                teamnaam = strip_tags(teamcel).strip()
+                if not teamnaam:
+                    continue
+
+            # Logo URL uit <img src="..."> in de teamcel
+            logo_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', teamcel)
+            logo_url = logo_match.group(1).strip() if logo_match else ''
+
+            # Maak absolute URL van logo (als relatief)
+            if logo_url and logo_url.startswith('/'):
+                logo_url = 'https://www.baseball.de' + logo_url
+
+            # Kolommen 2+: W, L, PCT, GB
+            cijfers = [clean_number(td) for td in tds_raw[2:]]
 
             rij = {
-                "positie": positie,
-                "team":    team,
-                "w":       cijfers[0] if len(cijfers) > 0 else '-',
-                "l":       cijfers[1] if len(cijfers) > 1 else '-',
-                "pct":     cijfers[2] if len(cijfers) > 2 else '-',
-                "gb":      cijfers[3] if len(cijfers) > 3 else '-',
+                "positie":  positie,
+                "team":     teamnaam,
+                "logo_url": logo_url,
+                "w":        cijfers[0] if len(cijfers) > 0 else '-',
+                "l":        cijfers[1] if len(cijfers) > 1 else '-',
+                "pct":      cijfers[2] if len(cijfers) > 2 else '-',
+                "gb":       cijfers[3] if len(cijfers) > 3 else '-',
             }
             divisie_rijen.append(rij)
 
@@ -83,6 +103,11 @@ def main():
     standen = parse_standings(html)
     print(f"Gevonden divisies: {list(standen.keys())}")
 
+    for divisie, rijen in standen.items():
+        print(f"\n{divisie}:")
+        for r in rijen:
+            print(f"  {r['positie']}. {r['team']} | W:{r['w']} L:{r['l']} PCT:{r['pct']} GB:{r['gb']} | logo:{r['logo_url'][:60] if r['logo_url'] else 'geen'}")
+
     output = {
         "bijgewerkt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "bron":       URL,
@@ -92,7 +117,7 @@ def main():
     with open("dbl_standen.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("✅ dbl_standen.json opgeslagen")
+    print("\n✅ dbl_standen.json opgeslagen")
 
 if __name__ == "__main__":
     main()
