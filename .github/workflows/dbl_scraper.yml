@@ -21,8 +21,18 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Dependencies installeren
+        run: pip install cloudscraper requests
+
       - name: Standen scrapen
         run: python dbl_scraper.py
+
+      - name: Debug HTML uploaden (alleen bij fout)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: debug_html.txt
 
       - name: JSON bestand committen
         run: |
