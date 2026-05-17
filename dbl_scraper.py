@@ -18,8 +18,7 @@ def strip_tags(text):
     return re.sub(r'<[^>]+>', '', text).strip()
 
 def clean_number(text):
-    text = strip_tags(text).strip()
-    return text if text else '-'
+    return strip_tags(text).strip() or '-'
 
 def parse_standings(html):
     result = {}
@@ -40,18 +39,22 @@ def parse_standings(html):
         rows = re.findall(r'<tr[^>]*>(.*?)</tr>', table_html, re.DOTALL)
 
         divisie_rijen = []
+        positie_teller = 0
+
         for row in rows:
+            # Positie zit in <th>, niet in <td>
+            th_match = re.search(r'<th[^>]*>(.*?)</th>', row, re.DOTALL)
+            positie = clean_number(th_match.group(1)) if th_match else '-'
+            if not re.match(r'^\d+$', positie):
+                continue  # skip header-rij
+
             tds_raw = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
+            # Verwachte volgorde: [teamcel, W, L, PCT, GB]
             if len(tds_raw) < 4:
                 continue
 
-            # Kolom 0: positie
-            positie = clean_number(tds_raw[0])
-            if not re.match(r'^\d+$', positie):
-                continue
-
-            # Kolom 1: teamcel met <a title="Teamnaam"> en <img src="...">
-            teamcel = tds_raw[1]
+            # Kolom 0: teamcel met logo + naam
+            teamcel = tds_raw[0]
 
             naam_match = re.search(r'<a[^>]+title=["\']([^"\']+)["\']', teamcel)
             if naam_match:
@@ -67,8 +70,8 @@ def parse_standings(html):
             if logo_url and logo_url.startswith('/'):
                 logo_url = 'https://www.baseball.de' + logo_url
 
-            # Kolommen 2+: W, L, PCT, GB
-            cijfers = [clean_number(td) for td in tds_raw[2:]]
+            # Kolommen 1-4: W, L, PCT, GB
+            cijfers = [clean_number(td) for td in tds_raw[1:]]
 
             rij = {
                 "positie":  positie,
