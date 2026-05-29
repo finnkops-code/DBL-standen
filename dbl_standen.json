@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-29T19:33:17Z",
+  "bijgewerkt": "2026-05-29T21:54:17Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -63,9 +63,9 @@
         "positie": "1",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "10",
+        "w": "11",
         "l": "2",
-        "pct": ".833",
+        "pct": ".846",
         "gb": "0"
       },
       {
@@ -73,9 +73,9 @@
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
         "w": "9",
-        "l": "3",
-        "pct": ".750",
-        "gb": "1"
+        "l": "4",
+        "pct": ".692",
+        "gb": "2"
       },
       {
         "positie": "3",
@@ -84,15 +84,15 @@
         "w": "6",
         "l": "6",
         "pct": ".500",
-        "gb": "4"
+        "gb": "4.5"
       },
       {
         "positie": "4",
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
-        "w": "5",
+        "w": "6",
         "l": "7",
-        "pct": ".417",
+        "pct": ".462",
         "gb": "5"
       },
       {
@@ -102,16 +102,16 @@
         "w": "4",
         "l": "8",
         "pct": ".333",
-        "gb": "6"
+        "gb": "6.5"
       },
       {
         "positie": "6",
         "team": "München-Haar Disciples",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "2",
-        "l": "10",
-        "pct": ".167",
-        "gb": "8"
+        "l": "11",
+        "pct": ".154",
+        "gb": "9"
       }
     ]
   }
