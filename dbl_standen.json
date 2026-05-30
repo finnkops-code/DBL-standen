@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T13:47:44Z",
+  "bijgewerkt": "2026-05-30T15:12:22Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -72,10 +72,10 @@
         "positie": "2",
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "9",
+        "w": "10",
         "l": "4",
-        "pct": ".692",
-        "gb": "2"
+        "pct": ".714",
+        "gb": "1.5"
       },
       {
         "positie": "3",
@@ -91,9 +91,9 @@
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "6",
-        "l": "7",
-        "pct": ".462",
-        "gb": "5"
+        "l": "8",
+        "pct": ".429",
+        "gb": "5.5"
       },
       {
         "positie": "5",
