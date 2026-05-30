@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T19:23:00Z",
+  "bijgewerkt": "2026-05-30T21:03:24Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -16,10 +16,10 @@
         "positie": "2",
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "9",
+        "w": "10",
         "l": "3",
-        "pct": ".750",
-        "gb": "1"
+        "pct": ".769",
+        "gb": "0.5"
       },
       {
         "positie": "3",
@@ -44,9 +44,9 @@
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
         "w": "2",
-        "l": "9",
-        "pct": ".182",
-        "gb": "7.5"
+        "l": "10",
+        "pct": ".167",
+        "gb": "8"
       },
       {
         "positie": "6",
