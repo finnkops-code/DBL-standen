@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T15:12:22Z",
+  "bijgewerkt": "2026-05-30T17:13:14Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -8,8 +8,8 @@
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
         "w": "11",
-        "l": "2",
-        "pct": ".846",
+        "l": "3",
+        "pct": ".786",
         "gb": "0"
       },
       {
@@ -19,7 +19,7 @@
         "w": "9",
         "l": "3",
         "pct": ".750",
-        "gb": "1.5"
+        "gb": "1"
       },
       {
         "positie": "3",
@@ -28,16 +28,16 @@
         "w": "7",
         "l": "5",
         "pct": ".583",
-        "gb": "3.5"
+        "gb": "3"
       },
       {
         "positie": "4",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "5",
+        "w": "6",
         "l": "7",
-        "pct": ".417",
-        "gb": "5.5"
+        "pct": ".462",
+        "gb": "4.5"
       },
       {
         "positie": "5",
@@ -46,7 +46,7 @@
         "w": "2",
         "l": "9",
         "pct": ".182",
-        "gb": "8"
+        "gb": "7.5"
       },
       {
         "positie": "6",
@@ -55,7 +55,7 @@
         "w": "2",
         "l": "10",
         "pct": ".167",
-        "gb": "8.5"
+        "gb": "8"
       }
     ],
     "Reguläre Saison Süd": [
@@ -63,9 +63,9 @@
         "positie": "1",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "11",
+        "w": "12",
         "l": "2",
-        "pct": ".846",
+        "pct": ".857",
         "gb": "0"
       },
       {
@@ -75,16 +75,16 @@
         "w": "10",
         "l": "4",
         "pct": ".714",
-        "gb": "1.5"
+        "gb": "2"
       },
       {
         "positie": "3",
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
         "w": "6",
-        "l": "6",
-        "pct": ".500",
-        "gb": "4.5"
+        "l": "7",
+        "pct": ".462",
+        "gb": "5.5"
       },
       {
         "positie": "4",
@@ -93,15 +93,15 @@
         "w": "6",
         "l": "8",
         "pct": ".429",
-        "gb": "5.5"
+        "gb": "6"
       },
       {
         "positie": "5",
         "team": "Gauting Indians",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
-        "w": "4",
+        "w": "5",
         "l": "8",
-        "pct": ".333",
+        "pct": ".385",
         "gb": "6.5"
       },
       {
@@ -109,9 +109,9 @@
         "team": "München-Haar Disciples",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "2",
-        "l": "11",
-        "pct": ".154",
-        "gb": "9"
+        "l": "12",
+        "pct": ".143",
+        "gb": "10"
       }
     ]
   }
