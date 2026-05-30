@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T11:23:53Z",
+  "bijgewerkt": "2026-05-30T13:47:44Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -7,9 +7,9 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "10",
+        "w": "11",
         "l": "2",
-        "pct": ".833",
+        "pct": ".846",
         "gb": "0"
       },
       {
@@ -19,7 +19,7 @@
         "w": "9",
         "l": "3",
         "pct": ".750",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "positie": "3",
@@ -28,16 +28,16 @@
         "w": "7",
         "l": "5",
         "pct": ".583",
-        "gb": "3"
+        "gb": "3.5"
       },
       {
         "positie": "4",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
         "w": "5",
-        "l": "6",
-        "pct": ".455",
-        "gb": "4.5"
+        "l": "7",
+        "pct": ".417",
+        "gb": "5.5"
       },
       {
         "positie": "5",
@@ -46,7 +46,7 @@
         "w": "2",
         "l": "9",
         "pct": ".182",
-        "gb": "7.5"
+        "gb": "8"
       },
       {
         "positie": "6",
@@ -55,7 +55,7 @@
         "w": "2",
         "l": "10",
         "pct": ".167",
-        "gb": "8"
+        "gb": "8.5"
       }
     ],
     "Reguläre Saison Süd": [
