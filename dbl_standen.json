@@ -1,12 +1,12 @@
 {
-  "bijgewerkt": "2026-05-31T13:53:21Z",
+  "bijgewerkt": "2026-05-31T15:19:27Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
       {
         "positie": "1",
-        "team": "Bonn Capitals",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
+        "team": "Hamburg Stealers",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
         "w": "11",
         "l": "3",
         "pct": ".786",
@@ -14,12 +14,12 @@
       },
       {
         "positie": "2",
-        "team": "Hamburg Stealers",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "10",
+        "team": "Bonn Capitals",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
+        "w": "11",
         "l": "3",
-        "pct": ".769",
-        "gb": "0.5"
+        "pct": ".786",
+        "gb": "0"
       },
       {
         "positie": "3",
@@ -44,9 +44,9 @@
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
         "w": "2",
-        "l": "10",
-        "pct": ".167",
-        "gb": "8"
+        "l": "11",
+        "pct": ".154",
+        "gb": "8.5"
       },
       {
         "positie": "6",
