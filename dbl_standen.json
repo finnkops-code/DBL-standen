@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-31T15:19:27Z",
+  "bijgewerkt": "2026-05-31T17:11:16Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -25,10 +25,10 @@
         "positie": "3",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "8",
+        "w": "9",
         "l": "5",
-        "pct": ".615",
-        "gb": "2.5"
+        "pct": ".643",
+        "gb": "2"
       },
       {
         "positie": "4",
@@ -53,9 +53,9 @@
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "11",
-        "pct": ".154",
-        "gb": "8.5"
+        "l": "12",
+        "pct": ".143",
+        "gb": "9"
       }
     ],
     "Reguläre Saison Süd": [
