@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-31T11:01:08Z",
+  "bijgewerkt": "2026-05-31T13:53:21Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -81,10 +81,10 @@
         "positie": "3",
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
-        "w": "6",
+        "w": "7",
         "l": "7",
-        "pct": ".462",
-        "gb": "5.5"
+        "pct": ".500",
+        "gb": "5"
       },
       {
         "positie": "4",
@@ -100,9 +100,9 @@
         "team": "Gauting Indians",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
         "w": "5",
-        "l": "8",
-        "pct": ".385",
-        "gb": "6.5"
+        "l": "9",
+        "pct": ".357",
+        "gb": "7"
       },
       {
         "positie": "6",
