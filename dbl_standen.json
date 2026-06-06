@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T12:07:54Z",
+  "bijgewerkt": "2026-06-06T14:44:39Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -43,19 +43,19 @@
         "positie": "5",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
-        "w": "2",
+        "w": "3",
         "l": "11",
-        "pct": ".154",
-        "gb": "9"
+        "pct": ".214",
+        "gb": "8.5"
       },
       {
         "positie": "6",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "12",
-        "pct": ".143",
-        "gb": "9.5"
+        "l": "13",
+        "pct": ".133",
+        "gb": "10"
       }
     ],
     "Reguläre Saison Süd": [
@@ -63,9 +63,9 @@
         "positie": "1",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "12",
+        "w": "13",
         "l": "3",
-        "pct": ".800",
+        "pct": ".813",
         "gb": "0"
       },
       {
@@ -73,26 +73,26 @@
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
         "w": "11",
-        "l": "4",
-        "pct": ".733",
-        "gb": "1"
+        "l": "5",
+        "pct": ".688",
+        "gb": "2"
       },
       {
         "positie": "3",
+        "team": "Mainz Athletics",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
+        "w": "8",
+        "l": "8",
+        "pct": ".500",
+        "gb": "5"
+      },
+      {
+        "positie": "4",
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
         "w": "7",
         "l": "7",
         "pct": ".500",
-        "gb": "4.5"
-      },
-      {
-        "positie": "4",
-        "team": "Mainz Athletics",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
-        "w": "7",
-        "l": "8",
-        "pct": ".467",
         "gb": "5"
       },
       {
@@ -100,9 +100,9 @@
         "team": "Gauting Indians",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
         "w": "5",
-        "l": "10",
-        "pct": ".333",
-        "gb": "7"
+        "l": "11",
+        "pct": ".313",
+        "gb": "8"
       },
       {
         "positie": "6",
@@ -111,7 +111,7 @@
         "w": "2",
         "l": "12",
         "pct": ".143",
-        "gb": "9.5"
+        "gb": "10"
       }
     ]
   }
