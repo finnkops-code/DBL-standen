@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-07T11:51:28Z",
+  "bijgewerkt": "2026-06-07T14:02:13Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -16,10 +16,10 @@
         "positie": "2",
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "11",
+        "w": "12",
         "l": "4",
-        "pct": ".733",
-        "gb": "1.5"
+        "pct": ".750",
+        "gb": "1"
       },
       {
         "positie": "3",
@@ -35,9 +35,9 @@
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
         "w": "7",
-        "l": "7",
-        "pct": ".500",
-        "gb": "5"
+        "l": "8",
+        "pct": ".467",
+        "gb": "5.5"
       },
       {
         "positie": "5",
@@ -81,10 +81,10 @@
         "positie": "3",
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
-        "w": "8",
+        "w": "9",
         "l": "7",
-        "pct": ".533",
-        "gb": "4.5"
+        "pct": ".563",
+        "gb": "4"
       },
       {
         "positie": "4",
@@ -109,9 +109,9 @@
         "team": "München-Haar Disciples",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "2",
-        "l": "13",
-        "pct": ".133",
-        "gb": "10.5"
+        "l": "14",
+        "pct": ".125",
+        "gb": "11"
       }
     ]
   }
