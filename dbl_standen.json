@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-07T14:02:13Z",
+  "bijgewerkt": "2026-06-07T16:20:21Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -43,19 +43,19 @@
         "positie": "5",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
-        "w": "3",
+        "w": "4",
         "l": "11",
-        "pct": ".214",
-        "gb": "9"
+        "pct": ".267",
+        "gb": "8.5"
       },
       {
         "positie": "6",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "13",
-        "pct": ".133",
-        "gb": "10.5"
+        "l": "14",
+        "pct": ".125",
+        "gb": "11"
       }
     ],
     "Reguläre Saison Süd": [
