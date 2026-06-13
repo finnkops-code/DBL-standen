@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-13T16:16:55Z",
+  "bijgewerkt": "2026-06-13T18:11:40Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -7,9 +7,9 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "13",
+        "w": "14",
         "l": "3",
-        "pct": ".813",
+        "pct": ".824",
         "gb": "0"
       },
       {
@@ -19,7 +19,7 @@
         "w": "12",
         "l": "4",
         "pct": ".750",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "positie": "3",
@@ -28,7 +28,7 @@
         "w": "9",
         "l": "7",
         "pct": ".563",
-        "gb": "4"
+        "gb": "4.5"
       },
       {
         "positie": "4",
@@ -37,7 +37,7 @@
         "w": "8",
         "l": "8",
         "pct": ".500",
-        "gb": "5"
+        "gb": "5.5"
       },
       {
         "positie": "5",
@@ -46,16 +46,16 @@
         "w": "4",
         "l": "12",
         "pct": ".250",
-        "gb": "9"
+        "gb": "9.5"
       },
       {
         "positie": "6",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "14",
-        "pct": ".125",
-        "gb": "11"
+        "l": "15",
+        "pct": ".118",
+        "gb": "12"
       }
     ],
     "Reguläre Saison Süd": [
@@ -63,9 +63,9 @@
         "positie": "1",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "13",
+        "w": "14",
         "l": "3",
-        "pct": ".813",
+        "pct": ".824",
         "gb": "0"
       },
       {
@@ -75,7 +75,7 @@
         "w": "13",
         "l": "5",
         "pct": ".722",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "positie": "3",
@@ -84,7 +84,7 @@
         "w": "10",
         "l": "8",
         "pct": ".556",
-        "gb": "4"
+        "gb": "4.5"
       },
       {
         "positie": "4",
@@ -93,16 +93,16 @@
         "w": "9",
         "l": "9",
         "pct": ".500",
-        "gb": "5"
+        "gb": "5.5"
       },
       {
         "positie": "5",
         "team": "Gauting Indians",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
         "w": "5",
-        "l": "11",
-        "pct": ".313",
-        "gb": "8"
+        "l": "12",
+        "pct": ".294",
+        "gb": "9"
       },
       {
         "positie": "6",
@@ -111,7 +111,7 @@
         "w": "2",
         "l": "16",
         "pct": ".111",
-        "gb": "12"
+        "gb": "12.5"
       }
     ]
   }
