@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-14T12:00:10Z",
+  "bijgewerkt": "2026-06-14T15:08:09Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -7,9 +7,9 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "14",
+        "w": "15",
         "l": "3",
-        "pct": ".824",
+        "pct": ".833",
         "gb": "0"
       },
       {
@@ -17,45 +17,45 @@
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
         "w": "12",
-        "l": "5",
-        "pct": ".706",
-        "gb": "2"
+        "l": "6",
+        "pct": ".667",
+        "gb": "3"
       },
       {
         "positie": "3",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "10",
+        "w": "11",
         "l": "7",
-        "pct": ".588",
+        "pct": ".611",
         "gb": "4"
       },
       {
         "positie": "4",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "8",
+        "w": "10",
         "l": "8",
-        "pct": ".500",
-        "gb": "5.5"
+        "pct": ".556",
+        "gb": "5"
       },
       {
         "positie": "5",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
         "w": "4",
-        "l": "12",
-        "pct": ".250",
-        "gb": "9.5"
+        "l": "14",
+        "pct": ".222",
+        "gb": "11"
       },
       {
         "positie": "6",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "15",
-        "pct": ".118",
-        "gb": "12"
+        "l": "16",
+        "pct": ".111",
+        "gb": "13"
       }
     ],
     "Reguläre Saison Süd": [
@@ -63,9 +63,9 @@
         "positie": "1",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "14",
+        "w": "15",
         "l": "3",
-        "pct": ".824",
+        "pct": ".833",
         "gb": "0"
       },
       {
@@ -75,7 +75,7 @@
         "w": "13",
         "l": "5",
         "pct": ".722",
-        "gb": "1.5"
+        "gb": "2"
       },
       {
         "positie": "3",
@@ -84,7 +84,7 @@
         "w": "10",
         "l": "8",
         "pct": ".556",
-        "gb": "4.5"
+        "gb": "5"
       },
       {
         "positie": "4",
@@ -93,16 +93,16 @@
         "w": "9",
         "l": "9",
         "pct": ".500",
-        "gb": "5.5"
+        "gb": "6"
       },
       {
         "positie": "5",
         "team": "Gauting Indians",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
         "w": "5",
-        "l": "12",
-        "pct": ".294",
-        "gb": "9"
+        "l": "13",
+        "pct": ".278",
+        "gb": "10"
       },
       {
         "positie": "6",
@@ -111,7 +111,7 @@
         "w": "2",
         "l": "16",
         "pct": ".111",
-        "gb": "12.5"
+        "gb": "13"
       }
     ]
   }
