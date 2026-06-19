@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-19T18:58:25Z",
+  "bijgewerkt": "2026-06-19T20:41:42Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -72,10 +72,10 @@
         "positie": "2",
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "13",
+        "w": "14",
         "l": "5",
-        "pct": ".722",
-        "gb": "2"
+        "pct": ".737",
+        "gb": "1.5"
       },
       {
         "positie": "3",
@@ -91,9 +91,9 @@
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
         "w": "9",
-        "l": "9",
-        "pct": ".500",
-        "gb": "6"
+        "l": "10",
+        "pct": ".474",
+        "gb": "6.5"
       },
       {
         "positie": "5",
