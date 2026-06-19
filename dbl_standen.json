@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-19T20:41:42Z",
+  "bijgewerkt": "2026-06-19T22:07:30Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -63,9 +63,9 @@
         "positie": "1",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "15",
+        "w": "16",
         "l": "3",
-        "pct": ".833",
+        "pct": ".842",
         "gb": "0"
       },
       {
@@ -75,16 +75,16 @@
         "w": "14",
         "l": "5",
         "pct": ".737",
-        "gb": "1.5"
+        "gb": "2"
       },
       {
         "positie": "3",
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "10",
-        "l": "8",
-        "pct": ".556",
-        "gb": "5"
+        "l": "9",
+        "pct": ".526",
+        "gb": "6"
       },
       {
         "positie": "4",
@@ -93,7 +93,7 @@
         "w": "9",
         "l": "10",
         "pct": ".474",
-        "gb": "6.5"
+        "gb": "7"
       },
       {
         "positie": "5",
@@ -102,7 +102,7 @@
         "w": "5",
         "l": "13",
         "pct": ".278",
-        "gb": "10"
+        "gb": "10.5"
       },
       {
         "positie": "6",
@@ -111,7 +111,7 @@
         "w": "2",
         "l": "16",
         "pct": ".111",
-        "gb": "13"
+        "gb": "13.5"
       }
     ]
   }
