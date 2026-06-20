@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-20T14:25:45Z",
+  "bijgewerkt": "2026-06-20T16:22:26Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -7,27 +7,27 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "15",
+        "w": "16",
         "l": "3",
-        "pct": ".833",
+        "pct": ".842",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "Hamburg Stealers",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
+        "team": "Untouchables Paderborn",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
         "w": "12",
-        "l": "6",
-        "pct": ".667",
-        "gb": "3"
+        "l": "7",
+        "pct": ".632",
+        "gb": "4"
       },
       {
         "positie": "3",
-        "team": "Untouchables Paderborn",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "11",
+        "team": "Hamburg Stealers",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
+        "w": "12",
         "l": "7",
-        "pct": ".611",
+        "pct": ".632",
         "gb": "4"
       },
       {
@@ -37,16 +37,16 @@
         "w": "10",
         "l": "8",
         "pct": ".556",
-        "gb": "5"
+        "gb": "5.5"
       },
       {
         "positie": "5",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
         "w": "4",
-        "l": "14",
-        "pct": ".222",
-        "gb": "11"
+        "l": "15",
+        "pct": ".211",
+        "gb": "12"
       },
       {
         "positie": "6",
@@ -55,7 +55,7 @@
         "w": "2",
         "l": "16",
         "pct": ".111",
-        "gb": "13"
+        "gb": "13.5"
       }
     ],
     "Reguläre Saison Süd": [
@@ -72,10 +72,10 @@
         "positie": "2",
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "14",
+        "w": "15",
         "l": "5",
-        "pct": ".737",
-        "gb": "2.5"
+        "pct": ".750",
+        "gb": "2"
       },
       {
         "positie": "3",
@@ -91,9 +91,9 @@
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
         "w": "9",
-        "l": "10",
-        "pct": ".474",
-        "gb": "7.5"
+        "l": "11",
+        "pct": ".450",
+        "gb": "8"
       },
       {
         "positie": "5",
