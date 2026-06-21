@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-21T13:10:04Z",
+  "bijgewerkt": "2026-06-21T15:56:12Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -7,18 +7,18 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "16",
+        "w": "17",
         "l": "3",
-        "pct": ".842",
+        "pct": ".850",
         "gb": "0"
       },
       {
         "positie": "2",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "12",
+        "w": "13",
         "l": "7",
-        "pct": ".632",
+        "pct": ".650",
         "gb": "4"
       },
       {
@@ -26,17 +26,17 @@
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
         "w": "12",
-        "l": "7",
-        "pct": ".632",
-        "gb": "4"
+        "l": "8",
+        "pct": ".600",
+        "gb": "5"
       },
       {
         "positie": "4",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "11",
+        "w": "12",
         "l": "8",
-        "pct": ".579",
+        "pct": ".600",
         "gb": "5"
       },
       {
@@ -44,18 +44,18 @@
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
         "w": "4",
-        "l": "15",
-        "pct": ".211",
-        "gb": "12"
+        "l": "16",
+        "pct": ".200",
+        "gb": "13"
       },
       {
         "positie": "6",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "17",
-        "pct": ".105",
-        "gb": "14"
+        "l": "18",
+        "pct": ".100",
+        "gb": "15"
       }
     ],
     "Reguläre Saison Süd": [
@@ -150,6 +150,24 @@
         "l": "0",
         "pct": ".000",
         "gb": "0"
+      },
+      {
+        "positie": "5",
+        "team": "Hamburg Stealers",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
+        "w": "0",
+        "l": "0",
+        "pct": ".000",
+        "gb": "0"
+      },
+      {
+        "positie": "6",
+        "team": "Untouchables Paderborn",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
+        "w": "0",
+        "l": "0",
+        "pct": ".000",
+        "gb": "0"
       }
     ],
     "Wildcard Race Nord": [
@@ -166,6 +184,15 @@
         "positie": "2",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
+        "w": "0",
+        "l": "0",
+        "pct": ".000",
+        "gb": "0"
+      },
+      {
+        "positie": "3",
+        "team": "Cologne Cardinals",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
         "w": "0",
         "l": "0",
         "pct": ".000",
