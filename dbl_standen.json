@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-21T15:56:12Z",
+  "bijgewerkt": "2026-06-21T17:44:57Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -119,113 +119,113 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
+        "w": "6",
+        "l": "2",
+        "pct": ".750",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "Guggenberger Legionäre",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
+        "team": "Heidenheim Heideköpfe",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
+        "w": "6",
+        "l": "2",
+        "pct": ".750",
         "gb": "0"
       },
       {
         "positie": "3",
-        "team": "Heidenheim Heideköpfe",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
-        "gb": "0"
+        "team": "Guggenberger Legionäre",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
+        "w": "5",
+        "l": "3",
+        "pct": ".625",
+        "gb": "1"
       },
       {
         "positie": "4",
-        "team": "Mainz Athletics",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
-        "gb": "0"
+        "team": "Untouchables Paderborn",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
+        "w": "3",
+        "l": "5",
+        "pct": ".375",
+        "gb": "3"
       },
       {
         "positie": "5",
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
-        "gb": "0"
+        "w": "3",
+        "l": "5",
+        "pct": ".375",
+        "gb": "3"
       },
       {
         "positie": "6",
-        "team": "Untouchables Paderborn",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
-        "gb": "0"
+        "team": "Mainz Athletics",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
+        "w": "1",
+        "l": "7",
+        "pct": ".125",
+        "gb": "5"
       }
     ],
     "Wildcard Race Nord": [
       {
         "positie": "1",
-        "team": "Hünstetten STORM",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
+        "team": "Cologne Cardinals",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
+        "w": "7",
+        "l": "1",
+        "pct": ".875",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "Dortmund Wanderers",
-        "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
-        "gb": "0"
+        "team": "Hünstetten STORM",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
+        "w": "3",
+        "l": "5",
+        "pct": ".375",
+        "gb": "4"
       },
       {
         "positie": "3",
-        "team": "Cologne Cardinals",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
-        "gb": "0"
+        "team": "Dortmund Wanderers",
+        "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
+        "w": "2",
+        "l": "6",
+        "pct": ".250",
+        "gb": "5"
       }
     ],
     "Wildcard Race Süd": [
       {
         "positie": "1",
-        "team": "Gauting Indians",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
+        "team": "Stuttgart Reds",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
+        "w": "6",
+        "l": "2",
+        "pct": ".750",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "München-Haar Disciples",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
-        "w": "0",
-        "l": "0",
-        "pct": ".000",
+        "team": "Gauting Indians",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
+        "w": "6",
+        "l": "2",
+        "pct": ".750",
         "gb": "0"
       },
       {
         "positie": "3",
-        "team": "Stuttgart Reds",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
+        "team": "München-Haar Disciples",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "0",
-        "l": "0",
+        "l": "8",
         "pct": ".000",
-        "gb": "0"
+        "gb": "6"
       }
     ]
   }
