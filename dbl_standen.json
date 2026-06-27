@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-27T11:37:55Z",
+  "bijgewerkt": "2026-06-27T13:51:04Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -184,19 +184,19 @@
         "positie": "2",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
-        "w": "3",
+        "w": "4",
         "l": "5",
-        "pct": ".375",
-        "gb": "4"
+        "pct": ".444",
+        "gb": "3.5"
       },
       {
         "positie": "3",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "6",
-        "pct": ".250",
-        "gb": "5"
+        "l": "7",
+        "pct": ".222",
+        "gb": "5.5"
       }
     ],
     "Wildcard Race Süd": [
