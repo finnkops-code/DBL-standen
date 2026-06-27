@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-27T19:26:14Z",
+  "bijgewerkt": "2026-06-27T21:08:50Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -129,9 +129,9 @@
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
         "w": "6",
-        "l": "2",
-        "pct": ".750",
-        "gb": "0"
+        "l": "3",
+        "pct": ".667",
+        "gb": "0.5"
       },
       {
         "positie": "3",
@@ -155,10 +155,10 @@
         "positie": "5",
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "3",
+        "w": "4",
         "l": "5",
-        "pct": ".375",
-        "gb": "3"
+        "pct": ".444",
+        "gb": "2.5"
       },
       {
         "positie": "6",
