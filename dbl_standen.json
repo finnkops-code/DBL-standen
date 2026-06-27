@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-27T17:15:12Z",
+  "bijgewerkt": "2026-06-27T19:26:14Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -146,10 +146,10 @@
         "positie": "4",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "3",
+        "w": "4",
         "l": "5",
-        "pct": ".375",
-        "gb": "3"
+        "pct": ".444",
+        "gb": "2.5"
       },
       {
         "positie": "5",
@@ -165,9 +165,9 @@
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "1",
-        "l": "7",
-        "pct": ".125",
-        "gb": "5"
+        "l": "8",
+        "pct": ".111",
+        "gb": "5.5"
       }
     ],
     "Wildcard Race Nord": [
@@ -202,30 +202,30 @@
     "Wildcard Race Süd": [
       {
         "positie": "1",
+        "team": "Gauting Indians",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
+        "w": "7",
+        "l": "2",
+        "pct": ".778",
+        "gb": "0"
+      },
+      {
+        "positie": "2",
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
         "w": "6",
         "l": "2",
         "pct": ".750",
-        "gb": "0"
-      },
-      {
-        "positie": "2",
-        "team": "Gauting Indians",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
-        "w": "6",
-        "l": "2",
-        "pct": ".750",
-        "gb": "0"
+        "gb": "0.5"
       },
       {
         "positie": "3",
         "team": "München-Haar Disciples",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "0",
-        "l": "8",
+        "l": "9",
         "pct": ".000",
-        "gb": "6"
+        "gb": "7"
       }
     ]
   }
