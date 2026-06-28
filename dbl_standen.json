@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-28T17:17:17Z",
+  "bijgewerkt": "2026-06-28T19:26:34Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -204,9 +204,9 @@
         "positie": "1",
         "team": "Gauting Indians",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
-        "w": "7",
+        "w": "8",
         "l": "2",
-        "pct": ".778",
+        "pct": ".800",
         "gb": "0"
       },
       {
@@ -216,16 +216,16 @@
         "w": "6",
         "l": "2",
         "pct": ".750",
-        "gb": "0.5"
+        "gb": "1"
       },
       {
         "positie": "3",
         "team": "München-Haar Disciples",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "0",
-        "l": "9",
+        "l": "10",
         "pct": ".000",
-        "gb": "7"
+        "gb": "8"
       }
     ]
   }
