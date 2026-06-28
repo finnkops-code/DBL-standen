@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-28T11:10:43Z",
+  "bijgewerkt": "2026-06-28T13:55:29Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -146,10 +146,10 @@
         "positie": "4",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "4",
+        "w": "5",
         "l": "5",
-        "pct": ".444",
-        "gb": "3"
+        "pct": ".500",
+        "gb": "2.5"
       },
       {
         "positie": "5",
@@ -184,19 +184,19 @@
         "positie": "2",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
-        "w": "4",
+        "w": "5",
         "l": "5",
-        "pct": ".444",
-        "gb": "3.5"
+        "pct": ".500",
+        "gb": "3"
       },
       {
         "positie": "3",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "7",
-        "pct": ".222",
-        "gb": "5.5"
+        "l": "8",
+        "pct": ".200",
+        "gb": "6"
       }
     ],
     "Wildcard Race Süd": [
