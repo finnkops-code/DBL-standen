@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-03T19:34:46Z",
+  "bijgewerkt": "2026-07-03T21:11:37Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -119,27 +119,27 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "7",
+        "w": "8",
         "l": "3",
-        "pct": ".700",
+        "pct": ".727",
         "gb": "0"
       },
       {
         "positie": "2",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "7",
+        "w": "8",
         "l": "3",
-        "pct": ".700",
+        "pct": ".727",
         "gb": "0"
       },
       {
         "positie": "3",
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "6",
+        "w": "7",
         "l": "4",
-        "pct": ".600",
+        "pct": ".636",
         "gb": "1"
       },
       {
@@ -147,27 +147,27 @@
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
         "w": "5",
-        "l": "5",
-        "pct": ".500",
-        "gb": "2"
+        "l": "6",
+        "pct": ".455",
+        "gb": "3"
       },
       {
         "positie": "5",
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
         "w": "4",
-        "l": "6",
-        "pct": ".400",
-        "gb": "3"
+        "l": "7",
+        "pct": ".364",
+        "gb": "4"
       },
       {
         "positie": "6",
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "1",
-        "l": "9",
-        "pct": ".100",
-        "gb": "6"
+        "l": "10",
+        "pct": ".091",
+        "gb": "7"
       }
     ],
     "Wildcard Race Nord": [
