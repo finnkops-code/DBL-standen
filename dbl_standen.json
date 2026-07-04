@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-04T13:41:22Z",
+  "bijgewerkt": "2026-07-04T15:08:31Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -119,9 +119,9 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "8",
+        "w": "9",
         "l": "3",
-        "pct": ".727",
+        "pct": ".750",
         "gb": "0"
       },
       {
@@ -129,9 +129,9 @@
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
         "w": "8",
-        "l": "3",
-        "pct": ".727",
-        "gb": "0"
+        "l": "4",
+        "pct": ".667",
+        "gb": "1"
       },
       {
         "positie": "3",
@@ -140,15 +140,15 @@
         "w": "7",
         "l": "4",
         "pct": ".636",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "positie": "4",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "5",
+        "w": "6",
         "l": "6",
-        "pct": ".455",
+        "pct": ".500",
         "gb": "3"
       },
       {
@@ -158,16 +158,16 @@
         "w": "4",
         "l": "7",
         "pct": ".364",
-        "gb": "4"
+        "gb": "4.5"
       },
       {
         "positie": "6",
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "1",
-        "l": "10",
-        "pct": ".091",
-        "gb": "7"
+        "l": "11",
+        "pct": ".083",
+        "gb": "8"
       }
     ],
     "Wildcard Race Nord": [
