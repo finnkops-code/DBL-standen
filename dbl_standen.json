@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-04T15:08:31Z",
+  "bijgewerkt": "2026-07-04T17:10:23Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -175,9 +175,9 @@
         "positie": "1",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "7",
+        "w": "8",
         "l": "1",
-        "pct": ".875",
+        "pct": ".889",
         "gb": "0"
       },
       {
@@ -187,16 +187,16 @@
         "w": "5",
         "l": "5",
         "pct": ".500",
-        "gb": "3"
+        "gb": "3.5"
       },
       {
         "positie": "3",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "8",
-        "pct": ".200",
-        "gb": "6"
+        "l": "9",
+        "pct": ".182",
+        "gb": "7"
       }
     ],
     "Wildcard Race Süd": [
