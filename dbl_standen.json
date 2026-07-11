@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-11T16:01:41Z",
+  "bijgewerkt": "2026-07-11T17:56:25Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -175,9 +175,9 @@
         "positie": "1",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "9",
+        "w": "10",
         "l": "1",
-        "pct": ".900",
+        "pct": ".909",
         "gb": "0"
       },
       {
@@ -185,9 +185,9 @@
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
         "w": "5",
-        "l": "5",
-        "pct": ".500",
-        "gb": "4"
+        "l": "6",
+        "pct": ".455",
+        "gb": "5"
       },
       {
         "positie": "3",
@@ -196,27 +196,27 @@
         "w": "2",
         "l": "10",
         "pct": ".167",
-        "gb": "8"
+        "gb": "8.5"
       }
     ],
     "Wildcard Race Süd": [
       {
         "positie": "1",
-        "team": "Stuttgart Reds",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
-        "w": "8",
+        "team": "Gauting Indians",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
+        "w": "9",
         "l": "2",
-        "pct": ".800",
+        "pct": ".818",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "Gauting Indians",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
+        "team": "Stuttgart Reds",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
         "w": "8",
-        "l": "2",
-        "pct": ".800",
-        "gb": "0"
+        "l": "3",
+        "pct": ".727",
+        "gb": "1"
       },
       {
         "positie": "3",
@@ -225,7 +225,7 @@
         "w": "0",
         "l": "12",
         "pct": ".000",
-        "gb": "9"
+        "gb": "9.5"
       }
     ]
   }
