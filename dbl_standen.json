@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-11T19:15:03Z",
+  "bijgewerkt": "2026-07-11T20:54:23Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -117,56 +117,56 @@
     "Interleague Runde": [
       {
         "positie": "1",
-        "team": "Bonn Capitals",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
+        "team": "Heidenheim Heideköpfe",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
         "w": "9",
-        "l": "3",
-        "pct": ".750",
+        "l": "4",
+        "pct": ".692",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "Heidenheim Heideköpfe",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "8",
+        "team": "Bonn Capitals",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
+        "w": "9",
         "l": "4",
-        "pct": ".667",
-        "gb": "1"
+        "pct": ".692",
+        "gb": "0"
       },
       {
         "positie": "3",
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "7",
+        "w": "8",
         "l": "5",
-        "pct": ".583",
-        "gb": "2"
+        "pct": ".615",
+        "gb": "1"
       },
       {
         "positie": "4",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
         "w": "6",
-        "l": "6",
-        "pct": ".500",
+        "l": "7",
+        "pct": ".462",
         "gb": "3"
       },
       {
         "positie": "5",
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "5",
+        "w": "6",
         "l": "7",
-        "pct": ".417",
-        "gb": "4"
+        "pct": ".462",
+        "gb": "3"
       },
       {
         "positie": "6",
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "1",
-        "l": "11",
-        "pct": ".083",
+        "l": "12",
+        "pct": ".077",
         "gb": "8"
       }
     ],
