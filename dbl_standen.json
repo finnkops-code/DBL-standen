@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-12T11:13:11Z",
+  "bijgewerkt": "2026-07-12T13:34:55Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -144,17 +144,17 @@
       },
       {
         "positie": "4",
-        "team": "Untouchables Paderborn",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "6",
+        "team": "Hamburg Stealers",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
+        "w": "7",
         "l": "7",
-        "pct": ".462",
-        "gb": "3"
+        "pct": ".500",
+        "gb": "2.5"
       },
       {
         "positie": "5",
-        "team": "Hamburg Stealers",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
+        "team": "Untouchables Paderborn",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
         "w": "6",
         "l": "7",
         "pct": ".462",
@@ -165,9 +165,9 @@
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "1",
-        "l": "12",
-        "pct": ".077",
-        "gb": "8"
+        "l": "13",
+        "pct": ".071",
+        "gb": "8.5"
       }
     ],
     "Wildcard Race Nord": [
