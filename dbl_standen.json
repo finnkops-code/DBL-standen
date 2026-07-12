@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-12T13:34:55Z",
+  "bijgewerkt": "2026-07-12T14:59:58Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -117,29 +117,29 @@
     "Interleague Runde": [
       {
         "positie": "1",
-        "team": "Heidenheim Heideköpfe",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "9",
+        "team": "Bonn Capitals",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
+        "w": "10",
         "l": "4",
-        "pct": ".692",
+        "pct": ".714",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "Bonn Capitals",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
+        "team": "Guggenberger Legionäre",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
         "w": "9",
-        "l": "4",
-        "pct": ".692",
-        "gb": "0"
+        "l": "5",
+        "pct": ".643",
+        "gb": "1"
       },
       {
         "positie": "3",
-        "team": "Guggenberger Legionäre",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "8",
+        "team": "Heidenheim Heideköpfe",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
+        "w": "9",
         "l": "5",
-        "pct": ".615",
+        "pct": ".643",
         "gb": "1"
       },
       {
@@ -149,16 +149,16 @@
         "w": "7",
         "l": "7",
         "pct": ".500",
-        "gb": "2.5"
+        "gb": "3"
       },
       {
         "positie": "5",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
         "w": "6",
-        "l": "7",
-        "pct": ".462",
-        "gb": "3"
+        "l": "8",
+        "pct": ".429",
+        "gb": "4"
       },
       {
         "positie": "6",
@@ -167,7 +167,7 @@
         "w": "1",
         "l": "13",
         "pct": ".071",
-        "gb": "8.5"
+        "gb": "9"
       }
     ],
     "Wildcard Race Nord": [
@@ -176,18 +176,18 @@
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
         "w": "10",
-        "l": "1",
-        "pct": ".909",
+        "l": "2",
+        "pct": ".833",
         "gb": "0"
       },
       {
         "positie": "2",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
-        "w": "5",
+        "w": "6",
         "l": "6",
-        "pct": ".455",
-        "gb": "5"
+        "pct": ".500",
+        "gb": "4"
       },
       {
         "positie": "3",
@@ -196,7 +196,7 @@
         "w": "2",
         "l": "10",
         "pct": ".167",
-        "gb": "8.5"
+        "gb": "8"
       }
     ],
     "Wildcard Race Süd": [
