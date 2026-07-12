@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-12T14:59:58Z",
+  "bijgewerkt": "2026-07-12T16:06:30Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -202,21 +202,21 @@
     "Wildcard Race Süd": [
       {
         "positie": "1",
-        "team": "Gauting Indians",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
+        "team": "Stuttgart Reds",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
         "w": "9",
-        "l": "2",
-        "pct": ".818",
+        "l": "3",
+        "pct": ".750",
         "gb": "0"
       },
       {
         "positie": "2",
-        "team": "Stuttgart Reds",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
-        "w": "8",
+        "team": "Gauting Indians",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
+        "w": "9",
         "l": "3",
-        "pct": ".727",
-        "gb": "1"
+        "pct": ".750",
+        "gb": "0"
       },
       {
         "positie": "3",
@@ -225,7 +225,7 @@
         "w": "0",
         "l": "12",
         "pct": ".000",
-        "gb": "9.5"
+        "gb": "9"
       }
     ]
   }
