@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-19T13:25:01Z",
+  "bijgewerkt": "2026-07-19T14:59:41Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -156,18 +156,18 @@
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
         "w": "7",
-        "l": "8",
-        "pct": ".467",
-        "gb": "4"
+        "l": "9",
+        "pct": ".438",
+        "gb": "4.5"
       },
       {
         "positie": "6",
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
-        "w": "1",
+        "w": "2",
         "l": "14",
-        "pct": ".067",
-        "gb": "10"
+        "pct": ".125",
+        "gb": "9.5"
       }
     ],
     "Wildcard Race Nord": [
@@ -184,19 +184,19 @@
         "positie": "2",
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
-        "w": "7",
+        "w": "8",
         "l": "6",
-        "pct": ".538",
-        "gb": "3.5"
+        "pct": ".571",
+        "gb": "3"
       },
       {
         "positie": "3",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "11",
-        "pct": ".154",
-        "gb": "8.5"
+        "l": "12",
+        "pct": ".143",
+        "gb": "9"
       }
     ],
     "Wildcard Race Süd": [
