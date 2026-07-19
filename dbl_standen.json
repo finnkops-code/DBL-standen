@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-19T11:11:22Z",
+  "bijgewerkt": "2026-07-19T13:25:01Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -135,21 +135,21 @@
       },
       {
         "positie": "3",
-        "team": "Heidenheim Heideköpfe",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
+        "team": "Hamburg Stealers",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
         "w": "9",
-        "l": "6",
-        "pct": ".600",
-        "gb": "2"
+        "l": "7",
+        "pct": ".563",
+        "gb": "2.5"
       },
       {
         "positie": "4",
-        "team": "Hamburg Stealers",
-        "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "8",
+        "team": "Heidenheim Heideköpfe",
+        "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
+        "w": "9",
         "l": "7",
-        "pct": ".533",
-        "gb": "3"
+        "pct": ".563",
+        "gb": "2.5"
       },
       {
         "positie": "5",
@@ -213,19 +213,19 @@
         "positie": "2",
         "team": "Gauting Indians",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/2/csm_Gauting-Indians-Logo2_994b199d9c.png",
-        "w": "9",
+        "w": "10",
         "l": "4",
-        "pct": ".692",
-        "gb": "0.5"
+        "pct": ".714",
+        "gb": "0"
       },
       {
         "positie": "3",
         "team": "München-Haar Disciples",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "1",
-        "l": "12",
-        "pct": ".077",
-        "gb": "8.5"
+        "l": "13",
+        "pct": ".071",
+        "gb": "9"
       }
     ]
   }
