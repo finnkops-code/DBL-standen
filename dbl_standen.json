@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-19T14:59:41Z",
+  "bijgewerkt": "2026-07-19T16:04:16Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -120,18 +120,18 @@
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
         "w": "11",
-        "l": "4",
-        "pct": ".733",
+        "l": "5",
+        "pct": ".688",
         "gb": "0"
       },
       {
         "positie": "2",
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
-        "w": "9",
+        "w": "10",
         "l": "6",
-        "pct": ".600",
-        "gb": "2"
+        "pct": ".625",
+        "gb": "1"
       },
       {
         "positie": "3",
@@ -140,7 +140,7 @@
         "w": "9",
         "l": "7",
         "pct": ".563",
-        "gb": "2.5"
+        "gb": "2"
       },
       {
         "positie": "4",
@@ -149,7 +149,7 @@
         "w": "9",
         "l": "7",
         "pct": ".563",
-        "gb": "2.5"
+        "gb": "2"
       },
       {
         "positie": "5",
@@ -158,7 +158,7 @@
         "w": "7",
         "l": "9",
         "pct": ".438",
-        "gb": "4.5"
+        "gb": "4"
       },
       {
         "positie": "6",
@@ -167,7 +167,7 @@
         "w": "2",
         "l": "14",
         "pct": ".125",
-        "gb": "9.5"
+        "gb": "9"
       }
     ],
     "Wildcard Race Nord": [
