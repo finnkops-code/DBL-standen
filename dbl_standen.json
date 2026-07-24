@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-24T18:20:59Z",
+  "bijgewerkt": "2026-07-24T20:22:50Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -119,9 +119,9 @@
         "positie": "1",
         "team": "Bonn Capitals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/6/csm_BC-YELLOW_ae704ac11b.png",
-        "w": "11",
+        "w": "12",
         "l": "5",
-        "pct": ".688",
+        "pct": ".706",
         "gb": "0"
       },
       {
@@ -131,7 +131,7 @@
         "w": "10",
         "l": "6",
         "pct": ".625",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "positie": "3",
@@ -140,7 +140,7 @@
         "w": "9",
         "l": "7",
         "pct": ".563",
-        "gb": "2"
+        "gb": "2.5"
       },
       {
         "positie": "4",
@@ -149,7 +149,7 @@
         "w": "9",
         "l": "7",
         "pct": ".563",
-        "gb": "2"
+        "gb": "2.5"
       },
       {
         "positie": "5",
@@ -158,16 +158,16 @@
         "w": "7",
         "l": "9",
         "pct": ".438",
-        "gb": "4"
+        "gb": "4.5"
       },
       {
         "positie": "6",
         "team": "Mainz Athletics",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/a/2/csm_Logo_Mainz-Athletics_fe4cc3e501.png",
         "w": "2",
-        "l": "14",
-        "pct": ".125",
-        "gb": "9"
+        "l": "15",
+        "pct": ".118",
+        "gb": "10"
       }
     ],
     "Wildcard Race Nord": [
