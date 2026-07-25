@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-25T19:12:43Z",
+  "bijgewerkt": "2026-07-25T20:56:11Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -147,18 +147,18 @@
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
         "w": "9",
-        "l": "7",
-        "pct": ".563",
-        "gb": "3"
+        "l": "8",
+        "pct": ".529",
+        "gb": "3.5"
       },
       {
         "positie": "5",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
-        "w": "7",
+        "w": "8",
         "l": "9",
-        "pct": ".438",
-        "gb": "5"
+        "pct": ".471",
+        "gb": "4.5"
       },
       {
         "positie": "6",
