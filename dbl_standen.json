@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-26T12:05:41Z",
+  "bijgewerkt": "2026-07-26T14:38:01Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -129,36 +129,36 @@
         "team": "Guggenberger Legionäre",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/4/csm_Logo_Guggenberger-Legion%C3%A4re-Regensburg_40af29eb3a.png",
         "w": "11",
-        "l": "6",
-        "pct": ".647",
-        "gb": "1.5"
+        "l": "7",
+        "pct": ".611",
+        "gb": "2"
       },
       {
         "positie": "3",
         "team": "Hamburg Stealers",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/d/4/csm_Logo_Hamburg-Stealers_c201765f3f.png",
-        "w": "9",
+        "w": "10",
         "l": "8",
-        "pct": ".529",
-        "gb": "3.5"
+        "pct": ".556",
+        "gb": "3"
       },
       {
         "positie": "4",
         "team": "Heidenheim Heideköpfe",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/4/3/csm_Logo_Heidenheim-Heidekoepfe_f3acc75a8e.png",
-        "w": "9",
+        "w": "10",
         "l": "8",
-        "pct": ".529",
-        "gb": "3.5"
+        "pct": ".556",
+        "gb": "3"
       },
       {
         "positie": "5",
         "team": "Untouchables Paderborn",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/7/csm_Logo_Untouchables-Paderborn_06c68fdcce.png",
         "w": "8",
-        "l": "9",
-        "pct": ".471",
-        "gb": "4.5"
+        "l": "10",
+        "pct": ".444",
+        "gb": "5"
       },
       {
         "positie": "6",
@@ -175,9 +175,9 @@
         "positie": "1",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "11",
+        "w": "12",
         "l": "2",
-        "pct": ".846",
+        "pct": ".857",
         "gb": "0"
       },
       {
@@ -187,16 +187,16 @@
         "w": "8",
         "l": "6",
         "pct": ".571",
-        "gb": "3.5"
+        "gb": "4"
       },
       {
         "positie": "3",
         "team": "Dortmund Wanderers",
         "logo_url": "https://www.baseball.de/fileadmin/user_upload/Teams/Dortmund_Wanderers/Dortmund_Wanderers_W.svg",
         "w": "2",
-        "l": "13",
-        "pct": ".133",
-        "gb": "10"
+        "l": "14",
+        "pct": ".125",
+        "gb": "11"
       }
     ],
     "Wildcard Race Süd": [
