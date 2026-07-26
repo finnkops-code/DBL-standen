@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-26T14:38:01Z",
+  "bijgewerkt": "2026-07-26T16:03:40Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -204,9 +204,9 @@
         "positie": "1",
         "team": "Stuttgart Reds",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/5/f/csm_Logo_Stuttgart-Reds_f5375f35be.png",
-        "w": "10",
+        "w": "11",
         "l": "3",
-        "pct": ".769",
+        "pct": ".786",
         "gb": "0"
       },
       {
@@ -216,16 +216,16 @@
         "w": "10",
         "l": "4",
         "pct": ".714",
-        "gb": "0.5"
+        "gb": "1"
       },
       {
         "positie": "3",
         "team": "München-Haar Disciples",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/b/0/csm_Logo_Muenchen-Haar-Disciples_1f1855520a.png",
         "w": "1",
-        "l": "14",
-        "pct": ".067",
-        "gb": "10"
+        "l": "15",
+        "pct": ".063",
+        "gb": "11"
       }
     ]
   }
