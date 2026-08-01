@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-01T13:35:00Z",
+  "bijgewerkt": "2026-08-01T15:03:14Z",
   "bron": "https://www.baseball.de/saison/tabellen",
   "standen": {
     "Reguläre Saison Nord": [
@@ -175,9 +175,9 @@
         "positie": "1",
         "team": "Cologne Cardinals",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/6/9/csm_Logo_Cologne-Cardinals_2b6218df74.png",
-        "w": "12",
+        "w": "13",
         "l": "2",
-        "pct": ".857",
+        "pct": ".867",
         "gb": "0"
       },
       {
@@ -185,9 +185,9 @@
         "team": "Hünstetten STORM",
         "logo_url": "https://www.baseball.de/fileadmin/_processed_/1/6/csm_Logo_H%C3%BCnstetten-STORM_ba7b0289b4.png",
         "w": "8",
-        "l": "6",
-        "pct": ".571",
-        "gb": "4"
+        "l": "7",
+        "pct": ".533",
+        "gb": "5"
       },
       {
         "positie": "3",
@@ -196,7 +196,7 @@
         "w": "2",
         "l": "14",
         "pct": ".125",
-        "gb": "11"
+        "gb": "11.5"
       }
     ],
     "Wildcard Race Süd": [
